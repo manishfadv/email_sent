@@ -1,0 +1,12 @@
+# Ignore all secret files
+secret*
+.log
+
+# Ignore cache files
+__pycache__
+.pyc
+
+
+# Ignore virtual env files
+.env_email
+.coverage
